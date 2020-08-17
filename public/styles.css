@@ -81,3 +81,14 @@ dd dl {
 dd dl .term {
   margin-bottom: 1rem;
 }
+footer {
+  position: relative;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  color: black;
+}
