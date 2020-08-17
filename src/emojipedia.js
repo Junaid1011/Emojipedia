@@ -199,6 +199,24 @@ const emojipedia = [
   emoji:"😶",
   name:" Face Without Mouth",
   meaning:"A yellow face with simple, open eyes and no mouth, as if at a loss for words. Meaning widely varies, but commonly conveys speechlessness, humility, and silence. May also convey moderately negative emotions, such as disappointment, frustration, or sadness."
+},
+{
+  id: 33,
+  emoji: "🙄",
+  name: "Face with Rolling Eyes",
+  meaning: "A yellow face with a small, closed mouth, flat or frowning, rolling its large, white eyes upwards. As with the gesture of an eye-roll, commonly conveys moderate disdain, disapproval, frustration, or boredom. Tone varies, including playful, sassy, resentful, and sarcastic, as if saying Yeah, whatever."
+},
+{
+  id: 34,
+  emoji: "🥺",
+  name: "Pleading Face",
+  meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+},
+{
+  id: 35,
+  emoji: "😈 ",
+  name: "Smiling Face with Horns",
+  meaning: "A face, usually purple, with devil horns, a wide grin, and eyes and eyebrows scrunched downward in the same manner as 😠 Angry Face on most platforms. Google’s design is red and Facebook’s has black horns and green eyes."
 }
 ];
 export default emojipedia;
